@@ -25,15 +25,16 @@
                     <li class="nav-item submenu dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pemerintahan Desa</a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Gallery') ?>">Visi & Misi Desa</a></li>
-                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Gallery') ?>">Pemerintah Desa</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Visimisi') ?>">Visi & Misi Desa</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Pemerintahandesa') ?>">Pemerintah Desa</a></li>
                         </ul>
                     </li>
                     <li class="nav-item submenu dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">BUMDES</a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Accomodation') ?>">Tentang BUMDES</a></li>
-                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Accomodation') ?>">Unit BUMDES</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Tentangbumdes') ?>">Tentang BUMDES</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Unitbumdes') ?>">Unit BUMDES</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url('Gallerybumdes') ?>">Gallery BUMDES</a></li>
                         </ul>
                     </li>
                     <li class="nav-item submenu dropdown">
